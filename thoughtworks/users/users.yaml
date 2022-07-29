@@ -8,3 +8,14 @@ metadata:
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Gayatri-Kodag
+  profile:
+    displayName: Gayatri Kodag
+    email: gayatri.kodag@thoughtworks.com
+    picture:
+spec:
+  memberOf: [thoughtworks, awesome-pet]
